@@ -28,7 +28,7 @@
           <appendAssemblyId>false</appendAssemblyId>
           <archive>
             <manifest>
-              <mainClass>WebPageScraping</mainClass>
+              <mainClass>com.ibaseit.demo.WebPageScraping</mainClass>
             </manifest>
           </archive>
         </configuration>
